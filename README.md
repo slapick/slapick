@@ -1,2 +1,2 @@
 👋 Hi, I’m @slapick
-😁 Python middle, C# and Java junior
+😁 Python middle, Java, C# and JavaScript junior
